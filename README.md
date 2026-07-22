@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Senior Software Engineer with 9 years of experience building products that scale. I take **ownership** of complex problems, am naturally **helpful** to teammates and cross-functional partners, and thrive on turning ambitious ideas into production systems.
+Software Engineer with 9 years of experience building products that scale. I take **ownership** of complex problems, am naturally **helpful** to teammates and cross-functional partners, and thrive on turning ambitious ideas into production systems.
 
 Currently at Carta, where I've:
 - 🏗️ **Founded & scaled** Carta Total Compensation from hackathon prototype → $20M ARR business
