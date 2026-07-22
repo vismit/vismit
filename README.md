@@ -1,7 +1,7 @@
 # Hi, I'm Vismit Patel 👋
 
-### Staff / Senior Software Engineer | Full Stack | Fintech Platform Architecture
-### 🚀 Open to New Opportunities | Looking for the Next Big Problem to Solve
+**Staff / Senior Software Engineer | Full Stack | Fintech Platform Architecture**  
+🚀 **Open to New Opportunities | Looking for the Next Big Problem to Solve**
 
 <p align="center">
   <a href="https://linkedin.com/in/vismitpatel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -51,16 +51,13 @@ Currently at Carta, where I've:
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend & APIs
+### Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Infrastructure & DevOps
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -70,21 +67,9 @@ Currently at Carta, where I've:
 
 ### Architecture & Design
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge)
+![Event Driven Architecture](https://img.shields.io/badge/Event_Driven_Architecture-00D9FF?style=for-the-badge)
 ![Domain Driven Design](https://img.shields.io/badge/Domain_Driven_Design-4A90E2?style=for-the-badge)
 ![SOA](https://img.shields.io/badge/Service_Oriented_Architecture-6C5CE7?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vismit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vismit&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vismit&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
@@ -118,14 +103,6 @@ I'm **open to new opportunities** where I can:
 - 💡 Tackle complex platform architecture, distributed systems, or AI/ML integration challenges
 
 Whether it's a startup building something new or an established company solving scale problems, I'm excited to find the next big problem to solve.
-
----
-
-## 📫 Let's Connect
-
-Feel free to reach out for collaborations, discussions about fintech, platform architecture, or engineering leadership.
-
-📍 Fremont, CA | 📧 vismitkpatel@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/vismitpatel)
 
 ---
 
