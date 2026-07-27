@@ -1,19 +1,11 @@
 <div align="center">
 
-<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" style="max-width: 900px;">
-  <defs>
-    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0984e3;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#00b894;stop-opacity:0.1" />
-    </linearGradient>
-  </defs>
-  <rect width="900" height="200" fill="url(#headerGradient)" rx="12"/>
-  <text x="450" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" fill="#2d3436" text-anchor="middle">Vismit Patel</text>
-  <text x="450" y="120" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#0984e3" text-anchor="middle">Senior Software Engineer 2 | Full Stack | Fintech Platform Architecture</text>
-  <text x="450" y="150" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="500" fill="#636e72" text-anchor="middle">Fremont, CA | 9 Years at Carta</text>
-</svg>
+# 👋 Hi, I'm Vismit Patel
 
-**🚀 Open to New Opportunities | Looking for Staff/Senior Engineering Roles**
+### Senior Software Engineer 2 | Full Stack | Fintech Platform Architecture
+📍 Fremont, CA | 🏢 9 Years at Carta
+
+🚀 **Open to New Opportunities | Looking for Staff/Senior Engineering Roles**
 
 <p align="center">
   <a href="https://linkedin.com/in/vismitpatel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -23,40 +15,24 @@
 
 </div>
 
-<br>
+---
 
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
 <td align="center" width="280">
-<svg width="260" height="130" viewBox="0 0 260 130" xmlns="http://www.w3.org/2000/svg">
-  <rect x="5" y="5" width="250" height="120" fill="#f8f9fa" stroke="#0984e3" stroke-width="3" rx="8"/>
-  <text x="130" y="55" font-family="system-ui, sans-serif" font-size="38" font-weight="700" fill="#0984e3" text-anchor="middle">9 Years</text>
-  <text x="130" y="85" font-family="system-ui, sans-serif" font-size="15" font-weight="500" fill="#636e72" text-anchor="middle">Building Products</text>
-  <text x="130" y="105" font-family="system-ui, sans-serif" font-size="15" font-weight="500" fill="#636e72" text-anchor="middle">That Scale</text>
-</svg>
+<img src="https://img.shields.io/badge/Experience-9_Years-0984e3?style=for-the-badge" alt="9 Years Experience"/>
+<br><sub><b>Building Products That Scale</b></sub>
 </td>
 <td align="center" width="280">
-<svg width="260" height="130" viewBox="0 0 260 130" xmlns="http://www.w3.org/2000/svg">
-  <rect x="5" y="5" width="250" height="120" fill="#f8f9fa" stroke="#00b894" stroke-width="3" rx="8"/>
-  <text x="130" y="55" font-family="system-ui, sans-serif" font-size="38" font-weight="700" fill="#00b894" text-anchor="middle">$300M</text>
-  <text x="130" y="85" font-family="system-ui, sans-serif" font-size="15" font-weight="500" fill="#636e72" text-anchor="middle">Cap Table ARR</text>
-  <text x="130" y="105" font-family="system-ui, sans-serif" font-size="13" font-weight="400" fill="#636e72" text-anchor="middle">$10M → $300M</text>
-</svg>
+<img src="https://img.shields.io/badge/Cap_Table-$300M_ARR-00b894?style=for-the-badge" alt="$300M ARR"/>
+<br><sub><b>$10M → $300M Growth</b></sub>
 </td>
 <td align="center" width="280">
-<svg width="260" height="130" viewBox="0 0 260 130" xmlns="http://www.w3.org/2000/svg">
-  <rect x="5" y="5" width="250" height="120" fill="#f8f9fa" stroke="#fdcb6e" stroke-width="3" rx="8"/>
-  <text x="130" y="55" font-family="system-ui, sans-serif" font-size="38" font-weight="700" fill="#e17055" text-anchor="middle">$20M</text>
-  <text x="130" y="85" font-family="system-ui, sans-serif" font-size="15" font-weight="500" fill="#636e72" text-anchor="middle">Total Comp ARR</text>
-  <text x="130" y="105" font-family="system-ui, sans-serif" font-size="13" font-weight="400" fill="#636e72" text-anchor="middle">Founding Engineer</text>
-</svg>
+<img src="https://img.shields.io/badge/Total_Comp-$20M_ARR-e17055?style=for-the-badge" alt="$20M ARR"/>
+<br><sub><b>Founding Engineer</b></sub>
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
