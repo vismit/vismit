@@ -1,16 +1,16 @@
 <div align="center">
 
-<svg width="800" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" style="max-width: 900px;">
   <defs>
     <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0984e3;stop-opacity:0.1" />
       <stop offset="100%" style="stop-color:#00b894;stop-opacity:0.1" />
     </linearGradient>
   </defs>
-  <rect width="800" height="180" fill="url(#headerGradient)" rx="12"/>
-  <text x="400" y="70" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" fill="#2d3436" text-anchor="middle">Vismit Patel</text>
-  <text x="400" y="105" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="600" fill="#0984e3" text-anchor="middle">Senior Software Engineer 2 | Full Stack | Fintech Platform Architecture</text>
-  <text x="400" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="500" fill="#636e72" text-anchor="middle">Fremont, CA | 9 Years at Carta</text>
+  <rect width="900" height="200" fill="url(#headerGradient)" rx="12"/>
+  <text x="450" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" fill="#2d3436" text-anchor="middle">Vismit Patel</text>
+  <text x="450" y="120" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="600" fill="#0984e3" text-anchor="middle">Senior Software Engineer 2 | Full Stack | Fintech Platform Architecture</text>
+  <text x="450" y="150" font-family="system-ui, -apple-system, sans-serif" font-size="15" font-weight="500" fill="#636e72" text-anchor="middle">Fremont, CA | 9 Years at Carta</text>
 </svg>
 
 **🚀 Open to New Opportunities | Looking for Staff/Senior Engineering Roles**
@@ -27,25 +27,34 @@
 
 <div align="center">
 
-<svg width="800" height="140" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
-  <!-- Card 1: Experience -->
-  <rect x="20" y="10" width="240" height="120" fill="#f8f9fa" stroke="#0984e3" stroke-width="2" rx="8"/>
-  <text x="140" y="50" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="700" fill="#0984e3" text-anchor="middle">9 Years</text>
-  <text x="140" y="75" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#636e72" text-anchor="middle">Building Products</text>
-  <text x="140" y="95" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#636e72" text-anchor="middle">That Scale</text>
-  
-  <!-- Card 2: ARR Scaled -->
-  <rect x="280" y="10" width="240" height="120" fill="#f8f9fa" stroke="#00b894" stroke-width="2" rx="8"/>
-  <text x="400" y="50" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="700" fill="#00b894" text-anchor="middle">$300M</text>
-  <text x="400" y="75" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#636e72" text-anchor="middle">Cap Table ARR</text>
-  <text x="400" y="95" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="400" fill="#636e72" text-anchor="middle">$10M → $300M</text>
-  
-  <!-- Card 3: ARR Founded -->
-  <rect x="540" y="10" width="240" height="120" fill="#f8f9fa" stroke="#fdcb6e" stroke-width="2" rx="8"/>
-  <text x="660" y="50" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="700" fill="#e17055" text-anchor="middle">$20M</text>
-  <text x="660" y="75" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#636e72" text-anchor="middle">Total Comp ARR</text>
-  <text x="660" y="95" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="400" fill="#636e72" text-anchor="middle">Founding Engineer</text>
+<table>
+<tr>
+<td align="center" width="280">
+<svg width="260" height="130" viewBox="0 0 260 130" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="250" height="120" fill="#f8f9fa" stroke="#0984e3" stroke-width="3" rx="8"/>
+  <text x="130" y="55" font-family="system-ui, sans-serif" font-size="38" font-weight="700" fill="#0984e3" text-anchor="middle">9 Years</text>
+  <text x="130" y="85" font-family="system-ui, sans-serif" font-size="15" font-weight="500" fill="#636e72" text-anchor="middle">Building Products</text>
+  <text x="130" y="105" font-family="system-ui, sans-serif" font-size="15" font-weight="500" fill="#636e72" text-anchor="middle">That Scale</text>
 </svg>
+</td>
+<td align="center" width="280">
+<svg width="260" height="130" viewBox="0 0 260 130" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="250" height="120" fill="#f8f9fa" stroke="#00b894" stroke-width="3" rx="8"/>
+  <text x="130" y="55" font-family="system-ui, sans-serif" font-size="38" font-weight="700" fill="#00b894" text-anchor="middle">$300M</text>
+  <text x="130" y="85" font-family="system-ui, sans-serif" font-size="15" font-weight="500" fill="#636e72" text-anchor="middle">Cap Table ARR</text>
+  <text x="130" y="105" font-family="system-ui, sans-serif" font-size="13" font-weight="400" fill="#636e72" text-anchor="middle">$10M → $300M</text>
+</svg>
+</td>
+<td align="center" width="280">
+<svg width="260" height="130" viewBox="0 0 260 130" xmlns="http://www.w3.org/2000/svg">
+  <rect x="5" y="5" width="250" height="120" fill="#f8f9fa" stroke="#fdcb6e" stroke-width="3" rx="8"/>
+  <text x="130" y="55" font-family="system-ui, sans-serif" font-size="38" font-weight="700" fill="#e17055" text-anchor="middle">$20M</text>
+  <text x="130" y="85" font-family="system-ui, sans-serif" font-size="15" font-weight="500" fill="#636e72" text-anchor="middle">Total Comp ARR</text>
+  <text x="130" y="105" font-family="system-ui, sans-serif" font-size="13" font-weight="400" fill="#636e72" text-anchor="middle">Founding Engineer</text>
+</svg>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -162,9 +171,5 @@ Whether it's a startup building something new or an established company solving 
 ---
 
 <div align="center">
-
-<svg width="600" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
-  <text x="300" y="35" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#636e72" text-anchor="middle">Building scalable systems that power the next generation of fintech</text>
-</svg>
-
+<i>Building scalable systems that power the next generation of fintech</i>
 </div>
