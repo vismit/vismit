@@ -1,124 +1,170 @@
 <div align="center">
 
-# Vismit Patel
+<svg width="800" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0984e3;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#00b894;stop-opacity:0.1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="180" fill="url(#headerGradient)" rx="12"/>
+  <text x="400" y="70" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" fill="#2d3436" text-anchor="middle">Vismit Patel</text>
+  <text x="400" y="105" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="600" fill="#0984e3" text-anchor="middle">Senior Software Engineer 2 | Full Stack | Fintech Platform Architecture</text>
+  <text x="400" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="500" fill="#636e72" text-anchor="middle">Fremont, CA | 9 Years at Carta</text>
+</svg>
 
-**Senior Software Engineer 2** | Fremont, CA
+**🚀 Open to New Opportunities | Looking for Staff/Senior Engineering Roles**
 
-[LinkedIn](https://linkedin.com/in/vismitpatel) • [GitHub](https://github.com/vismit) • [Email](mailto:vismitkpatel@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/vismitpatel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/vismit"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:vismitkpatel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### Revenue Architecture
-
-<svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00b894;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0984e3;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00b894;stop-opacity:0.7" />
-      <stop offset="100%" style="stop-color:#0984e3;stop-opacity:0.7" />
-    </linearGradient>
-  </defs>
+<svg width="800" height="140" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- Card 1: Experience -->
+  <rect x="20" y="10" width="240" height="120" fill="#f8f9fa" stroke="#0984e3" stroke-width="2" rx="8"/>
+  <text x="140" y="50" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="700" fill="#0984e3" text-anchor="middle">9 Years</text>
+  <text x="140" y="75" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#636e72" text-anchor="middle">Building Products</text>
+  <text x="140" y="95" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#636e72" text-anchor="middle">That Scale</text>
   
-  <!-- Cap Table Track -->
-  <text x="50" y="40" font-family="monospace" font-size="28" font-weight="700" fill="#fdcb6e">$10M</text>
-  <rect x="140" y="20" width="520" height="8" fill="#dee2e6" rx="4"/>
-  <rect x="140" y="20" width="520" height="8" fill="url(#gradient1)" rx="4"/>
-  <text x="670" y="40" font-family="monospace" font-size="28" font-weight="700" fill="#fdcb6e">$300M</text>
-  <text x="140" y="60" font-family="sans-serif" font-size="14" fill="#495057">Carta Cap Table</text>
-  <text x="140" y="78" font-family="sans-serif" font-size="12" fill="#495057" font-style="italic">Aug 2017 – Oct 2022</text>
+  <!-- Card 2: ARR Scaled -->
+  <rect x="280" y="10" width="240" height="120" fill="#f8f9fa" stroke="#00b894" stroke-width="2" rx="8"/>
+  <text x="400" y="50" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="700" fill="#00b894" text-anchor="middle">$300M</text>
+  <text x="400" y="75" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#636e72" text-anchor="middle">Cap Table ARR</text>
+  <text x="400" y="95" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="400" fill="#636e72" text-anchor="middle">$10M → $300M</text>
   
-  <!-- Total Comp Track -->
-  <text x="65" y="150" font-family="monospace" font-size="28" font-weight="700" fill="#fdcb6e">$0</text>
-  <rect x="140" y="130" width="520" height="8" fill="#dee2e6" rx="4"/>
-  <rect x="140" y="130" width="520" height="8" fill="url(#gradient2)" rx="4"/>
-  <text x="670" y="150" font-family="monospace" font-size="28" font-weight="700" fill="#fdcb6e">$20M</text>
-  <text x="140" y="170" font-family="sans-serif" font-size="14" fill="#495057">Carta Total Compensation</text>
-  <text x="140" y="188" font-family="sans-serif" font-size="12" fill="#495057" font-style="italic">Oct 2022 – Present, Founding Engineer</text>
+  <!-- Card 3: ARR Founded -->
+  <rect x="540" y="10" width="240" height="120" fill="#f8f9fa" stroke="#fdcb6e" stroke-width="2" rx="8"/>
+  <text x="660" y="50" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="700" fill="#e17055" text-anchor="middle">$20M</text>
+  <text x="660" y="75" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#636e72" text-anchor="middle">Total Comp ARR</text>
+  <text x="660" y="95" font-family="system-ui, -apple-system, sans-serif" font-size="12" font-weight="400" fill="#636e72" text-anchor="middle">Founding Engineer</text>
 </svg>
 
 </div>
 
 ---
 
-I've spent nine years at Carta building fintech products that scale. Helped grow the Cap Table business from $10M to $300M ARR. As a founding engineer on Total Compensation, turned a hackathon prototype into a $20M ARR business while leading strategic partnerships with Morgan Stanley Wealth Management and pioneering AI integration with Claude.
+## 🚀 About Me
+
+Software Engineer with 9 years of experience building products that scale. I take **ownership** of complex problems, am naturally **helpful** to teammates and cross-functional partners, and thrive on turning ambitious ideas into production systems.
+
+Currently at Carta, where I've:
+- 🏗️ **Founded & scaled** Carta Total Compensation from hackathon prototype → $20M ARR business
+- 📈 **Helped grow** core Cap Table business from $10M → $300M ARR
+- 🤝 **Led** strategic partnerships with Morgan Stanley Wealth Management
+- 🤖 **Pioneered** AI integration with Claude/MCP for equity workflows
+- 🚀 **Mentored** engineers and driven technical excellence across teams
+
+**I'm excited about the next challenge** — whether it's building 0→1 products, scaling infrastructure, or solving complex technical problems that create real business value.
 
 ---
 
-<table>
-<tr>
-<td width="33%" valign="top">
+## 💼 Career Highlights
 
-### Systems Architecture
+### 📈 Scale & Impact
+- Scaled core Cap Table business from **$10M → $300M ARR**
+- Launched Total Compensation: **prototype → $20M ARR business**
 
-Architected microservices and scaled Securities capabilities using Python/Django/React within high-concurrency service-oriented environment. Modernized legacy infrastructure through strategic refactoring and Domain-Driven Design principles.
+### 🎯 Technical Leadership
+- Architected microservices for high-availability fintech systems
+- Modernized legacy infrastructure with Domain-Driven Design
+- Delivered Morgan Stanley Wealth Management integration
+- Led Carta–Rippling partnership and external API ecosystem
 
-</td>
-<td width="33%" valign="top">
-
-### Strategic Partnerships
-
-Orchestrated technical execution of Carta–Morgan Stanley Wealth Management partnership for IPO support and financial guidance. Led Carta–Rippling partnership integration and architected high-scale external benchmarking APIs for third-party ecosystem.
-
-</td>
-<td width="33%" valign="top">
-
-### AI & Platform Innovation
-
-Architected Model Context Protocol (MCP) infrastructure enabling custom AI skills and secure platform access. Implemented Claude Code agent workflows, custom skills/plugins, and expanded API surface for developer ecosystem.
-
-</td>
-</tr>
-</table>
+### 🚀 Innovation
+- Deployed Claude AI integration for Cap Table workflows
+- Architected Model Context Protocol (MCP) infrastructure
+- Built custom AI agent workflows, skills, and plugins
+- Expanded API surface for third-party developer ecosystem
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** Python • TypeScript • JavaScript • SQL
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frameworks & Tools:** Django • React • Celery • Redis • REST API • gRPC • Kafka • Temporal • SFTP
+### Frameworks & Tools
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**Infrastructure & AI:** AWS S3 • Postgres • Docker • Kubernetes • Terraform • CI/CD • Claude Code • MCP
+### Architecture & Design
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge)
+![Event Driven Architecture](https://img.shields.io/badge/Event_Driven_Architecture-00D9FF?style=for-the-badge)
+![Domain Driven Design](https://img.shields.io/badge/Domain_Driven_Design-4A90E2?style=for-the-badge)
+![SOA](https://img.shields.io/badge/Service_Oriented_Architecture-6C5CE7?style=for-the-badge)
 
-**Architecture:** Microservices • Event-Driven Architecture • Domain-Driven Design • Service-Oriented Architecture
+### AI & Developer Tools
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-6C5CE7?style=for-the-badge)
 
 ---
 
-## What's Next
+## 📅 Experience
 
-I'm seeking staff+ roles where I can drive technical leadership, architect scalable systems, build 0→1 products, or tackle scaling challenges where technical solutions create measurable business value. Whether it's fintech, infrastructure, or AI integration—I'm drawn to problems where engineering excellence compounds into revenue and impact.
+### Carta — San Francisco, CA (2017 - Present)
+**Senior Software Engineer 2** | Mar 2021 – Present  
+**Senior Software Engineer** | Oct 2019 – Mar 2021  
+**Software Engineer** | Aug 2017 – Oct 2019
+
+*9 years progressing through 3 engineering levels across Cap Table, Total Compensation, and strategic partnerships*
+
+**Key Projects:**
+- **Cap Table & Securities** (2017-2022): Scaled core business from $10M to $300M ARR
+- **Total Compensation** (2022-Present): Founding engineer, built $20M ARR business from hackathon prototype
+- **Strategic Partnerships**: Led Morgan Stanley Wealth Management and Rippling integrations
+- **AI Platform**: Architected MCP infrastructure and Claude integration for equity workflows
+
+### NetApp — Sunnyvale, CA
+**MTS Software Intern** | Jun 2016 – Dec 2016
 
 ---
 
-## Experience
+## 🎓 Education
 
-**Carta** — San Francisco, CA
-- **Senior Software Engineer 2** | Mar 2021 – Present
-- **Senior Software Engineer** | Oct 2019 – Mar 2021
-- **Software Engineer** | Aug 2017 – Oct 2019
-
-**NetApp** — Sunnyvale, CA
-- **MTS Software Intern** | Jun 2016 – Dec 2016
+**Santa Clara University** — Master of Science in Computer Science and Engineering (2015-2017)  
+**Gujarat Technological University** — Bachelor of Engineering in Electronics and Communication (2008-2012)
 
 ---
 
-## Education
+## 🎯 What I'm Looking For
 
-**Master of Science in Computer Science and Engineering**  
-Santa Clara University, 2015–2017
+I'm **open to new opportunities** where I can:
+- 🚀 **Solve challenging technical problems** that create real business impact
+- 🏗️ **Build 0→1 products** or scale existing systems to the next level
+- 🤝 **Lead technical initiatives** and mentor engineering teams
+- 💡 **Drive innovation** in platform architecture, distributed systems, or AI/ML integration
+- 📈 **Create measurable value** where engineering excellence compounds into revenue and impact
 
-**Bachelor of Engineering in Electronics and Communication**  
-Gujarat Technological University, 2008–2012
+**Ideal roles:** Staff Engineer, Senior Engineer 2, Principal Engineer positions at companies solving scale problems or building ambitious new products.
+
+Whether it's a startup building something new or an established company solving scale problems, I'm excited to find the next big problem to solve.
 
 ---
 
 <div align="center">
-<sub>Building scalable systems that power the next generation of fintech</sub>
+
+<svg width="600" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
+  <text x="300" y="35" font-family="Georgia, serif" font-size="18" font-style="italic" fill="#636e72" text-anchor="middle">Building scalable systems that power the next generation of fintech</text>
+</svg>
+
 </div>
